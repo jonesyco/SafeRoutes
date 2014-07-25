@@ -1,0 +1,72 @@
+/* remove padding and scrolling from elements that contain an Accordion OR a content-div */
+.ui-layout-center ,	/* has content-div */
+.ui-layout-west ,	/* has Accordion */
+.ui-layout-east ,	/* has content-div ... */
+.ui-layout-east .ui-layout-content { /* content-div has Accordion */
+        padding: 0;
+        overflow: hidden;
+}
+.ui-layout-center P.ui-layout-content {
+        line-height:	1.4em;
+        margin:			0; /* remove top/bottom margins from <P> used as content-div */
+}
+h3, h4 { /* Headers & Footer in Center & East panes */
+        font-size:		1.1em;
+        background:		#EEF;
+        border:			1px solid #BBB;
+        border-width:	        0 0 1px;
+        padding:		7px 10px;
+        margin:			0;
+}
+.ui-layout-east h4 { /* Footer in East-pane */
+        font-size:	0.9em;
+        font-weight:	normal;
+        border-width:	1px 0 0;
+}
+
+#map-form td {
+  margin: 0;
+  text-align: left;
+  font: small Arial, sans-serif;
+  float: left;
+}
+#map-form-2 td {
+  margin: 0;
+  text-align: left;
+  font: small Arial, sans-serif;
+  float: left;
+}
+#header_line h2 {
+    color:#004276;    
+}
+
+.marker_menu:hover{
+background:#ffffb6;
+}
+
+.marker_in {
+        font-size:smaller;
+}
+
+#controlUI {
+        background-color: white;
+        border-bottom-style: solid;
+        border-width: 1px;
+        cursor: auto;
+        text-align: justify;
+}
+
+/* resize for map inclusion */
+
+.acc_cont {
+        font-size: 0.9em;
+}
+
+.ui-state-default{
+        font-weight: bold;
+        color: #E08726;
+}
+
+.ui-accordion header h3 {
+        font-size: 0.4em;
+}

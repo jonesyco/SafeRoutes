@@ -1,0 +1,265 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "001", "OBJECTID": 39, "ZIP": 95688, "CITY": "Vacaville", "DISTRICT": "Vacaville Unified", "ADDRESS": "500 S. Orchard Ave.", "FullName": "Alamo Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.005416, 38.357897, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "001", "OBJECTID": 39, "ZIP": 95688, "CITY": "Vacaville", "DISTRICT": "Vacaville Unified", "ADDRESS": "500 S. Orchard Ave.", "FullName": "Alamo Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -121.995024, 38.352085, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "002", "OBJECTID": 61, "ZIP": 95620, "CITY": "Dixon", "DISTRICT": "Dixon Unified", "ADDRESS": "415 East C St.", "FullName": "Linford L. Anderson Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -121.818132, 38.443323, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "002", "OBJECTID": 61, "ZIP": 95620, "CITY": "Dixon", "DISTRICT": "Dixon Unified", "ADDRESS": "415 East C St.", "FullName": "Linford L. Anderson Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -121.824543, 38.446835, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "002", "OBJECTID": 61, "ZIP": 95620, "CITY": "Dixon", "DISTRICT": "Dixon Unified", "ADDRESS": "415 East C St.", "FullName": "Linford L. Anderson Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -121.816775, 38.444794, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "003", "OBJECTID": 10, "ZIP": 94533, "CITY": "Fairfield", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "1600 Kidder Ave.", "FullName": "Anna Kyle Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.023675, 38.259375, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "003", "OBJECTID": 10, "ZIP": 94533, "CITY": "Fairfield", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "1600 Kidder Ave.", "FullName": "Anna Kyle Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.039247, 38.257051, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "053", "OBJECTID": 78, "ZIP": 94510, "CITY": "Benicia", "DISTRICT": "Benicia Unified", "ADDRESS": "901 Military West", "FullName": "Mary Farmar Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.173952, 38.059523, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "053", "OBJECTID": 78, "ZIP": 94510, "CITY": "Benicia", "DISTRICT": "Benicia Unified", "ADDRESS": "901 Military West", "FullName": "Mary Farmar Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.167905, 38.058670, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "086", "OBJECTID": 70, "ZIP": 94510, "CITY": "Benicia", "DISTRICT": "Benicia Unified", "ADDRESS": "1100 Southampton Road", "FullName": "Benicia Middle School" }, "geometry": { "type": "Point", "coordinates": [ -122.172283, 38.070300, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "086", "OBJECTID": 70, "ZIP": 94510, "CITY": "Benicia", "DISTRICT": "Benicia Unified", "ADDRESS": "1100 Southampton Road", "FullName": "Benicia Middle School" }, "geometry": { "type": "Point", "coordinates": [ -122.170047, 38.068921, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "007", "OBJECTID": 73, "ZIP": 94591, "CITY": "Vallejo", "DISTRICT": "Vallejo City Unified", "ADDRESS": "1450 Coronel Ave.", "FullName": "Beverly Hills Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.220927, 38.089494, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "007", "OBJECTID": 73, "ZIP": 94591, "CITY": "Vallejo", "DISTRICT": "Vallejo City Unified", "ADDRESS": "1450 Coronel Ave.", "FullName": "Beverly Hills Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.226202, 38.089322, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "008", "OBJECTID": 79, "ZIP": 95688, "CITY": "Vacaville", "DISTRICT": "Vacaville Unified", "ADDRESS": "333 Wrentham Dr.", "FullName": "Browns Valley Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -121.974564, 38.390314, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "", "SchoolCode": "009", "OBJECTID": 0, "ZIP": 0, "CITY": "Vacaville", "DISTRICT": "Vacaville Unified", "ADDRESS": "", "FullName": "Buckingham Charter Magnet High School" }, "geometry": { "type": "Point", "coordinates": [ -121.987316, 38.349582, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "010", "OBJECTID": 60, "ZIP": 95620, "CITY": "Dixon", "DISTRICT": "Dixon Unified", "ADDRESS": "200 N. Lincoln St.", "FullName": "C. A. Jacobs Intermediate School" }, "geometry": { "type": "Point", "coordinates": [ -121.834677, 38.453061, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "010", "OBJECTID": 60, "ZIP": 95620, "CITY": "Dixon", "DISTRICT": "Dixon Unified", "ADDRESS": "200 N. Lincoln St.", "FullName": "C. A. Jacobs Intermediate School" }, "geometry": { "type": "Point", "coordinates": [ -121.831677, 38.448015, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "011", "OBJECTID": 83, "ZIP": 95687, "CITY": "Vacaville", "DISTRICT": "Vacaville Unified", "ADDRESS": "6261 Vanden Road", "FullName": "Jean Callison Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -121.945887, 38.340566, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "011", "OBJECTID": 83, "ZIP": 95687, "CITY": "Vacaville", "DISTRICT": "Vacaville Unified", "ADDRESS": "6261 Vanden Road", "FullName": "Jean Callison Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -121.950864, 38.345597, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "011", "OBJECTID": 83, "ZIP": 95687, "CITY": "Vacaville", "DISTRICT": "Vacaville Unified", "ADDRESS": "6261 Vanden Road", "FullName": "Jean Callison Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -121.937177, 38.347352, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "012", "OBJECTID": 27, "ZIP": 95687, "CITY": "Vacaville", "DISTRICT": "Travis Unified", "ADDRESS": "100 Cambridge Dr.", "FullName": "Cambridge Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -121.954316, 38.335520, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "012", "OBJECTID": 27, "ZIP": 95687, "CITY": "Vacaville", "DISTRICT": "Travis Unified", "ADDRESS": "100 Cambridge Dr.", "FullName": "Cambridge Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -121.949640, 38.328551, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "013", "OBJECTID": 68, "ZIP": 94591, "CITY": "Vallejo", "DISTRICT": "Vallejo City Unified", "ADDRESS": "770 Tregaskis Ave.", "FullName": "Elmer Cave Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.227002, 38.110192, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "014", "OBJECTID": 40, "ZIP": 94535, "CITY": "Travis AFB", "DISTRICT": "Travis Unified", "ADDRESS": "2900 Armstrong St.", "FullName": "Center Elementary" }, "geometry": { "type": "Point", "coordinates": [ -121.959873, 38.282674, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "014", "OBJECTID": 40, "ZIP": 94535, "CITY": "Travis AFB", "DISTRICT": "Travis Unified", "ADDRESS": "2900 Armstrong St.", "FullName": "Center Elementary" }, "geometry": { "type": "Point", "coordinates": [ -121.964894, 38.279538, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "016", "OBJECTID": 52, "ZIP": 94589, "CITY": "Vallejo", "DISTRICT": "Vallejo City Unified", "ADDRESS": "612 Del Mar St.", "FullName": "Johnston Cooper Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.243568, 38.130873, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "016", "OBJECTID": 52, "ZIP": 94589, "CITY": "Vallejo", "DISTRICT": "Vallejo City Unified", "ADDRESS": "612 Del Mar St.", "FullName": "Johnston Cooper Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.237514, 38.123685, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "017", "OBJECTID": 129, "ZIP": 94534, "CITY": "Fairfield", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "4770 Canyon Hills Drive", "FullName": "Cordelia Hills Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.128805, 38.170536, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "017", "OBJECTID": 129, "ZIP": 94534, "CITY": "Fairfield", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "4770 Canyon Hills Drive", "FullName": "Cordelia Hills Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.136779, 38.165417, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "019", "OBJECTID": 151, "ZIP": 94585, "CITY": "Suisun City", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "400 Whispering Bay Ln.", "FullName": "Crescent Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.011137, 38.240953, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "020", "OBJECTID": 20, "ZIP": 94585, "CITY": "Suisun City", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "400 Whispering Bay Ln.", "FullName": "Crystal Middle School" }, "geometry": { "type": "Point", "coordinates": [ -122.036427, 38.237408, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "020", "OBJECTID": 20, "ZIP": 94585, "CITY": "Suisun City", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "400 Whispering Bay Ln.", "FullName": "Crystal Middle School" }, "geometry": { "type": "Point", "coordinates": [ -122.039438, 38.243294, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "020", "OBJECTID": 20, "ZIP": 94585, "CITY": "Suisun City", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "400 Whispering Bay Ln.", "FullName": "Crystal Middle School" }, "geometry": { "type": "Point", "coordinates": [ -122.038392, 38.241263, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "021", "OBJECTID": 21, "ZIP": 94571, "CITY": "Rio Vista", "DISTRICT": "River Delta Joint Unified", "ADDRESS": "500 Elm Way", "FullName": "D.H. White Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -121.696666, 38.165615, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "021", "OBJECTID": 21, "ZIP": 94571, "CITY": "Rio Vista", "DISTRICT": "River Delta Joint Unified", "ADDRESS": "500 Elm Way", "FullName": "D.H. White Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -121.687730, 38.165291, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "063", "OBJECTID": 22, "ZIP": 94571, "CITY": "Rio Vista", "DISTRICT": "River Delta Joint Unified", "ADDRESS": "525 S. Second St.", "FullName": "Riverview Middle School" }, "geometry": { "type": "Point", "coordinates": [ -121.693988, 38.156547, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "022", "OBJECTID": 48, "ZIP": 94589, "CITY": "Vallejo", "DISTRICT": "Vallejo City Unified", "ADDRESS": "1530 Lorenzo Dr.", "FullName": "Dan Mini Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.264586, 38.145155, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "023", "OBJECTID": 13, "ZIP": 94585, "CITY": "Suisun City", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "820 Harrier Dr.", "FullName": "Dan O. Root II Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -121.982704, 38.248699, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "024", "OBJECTID": 131, "ZIP": 94533, "CITY": "Fairfield", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "1975 Pennsylvania Avenue", "FullName": "David A. Weir Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.044618, 38.266883, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "024", "OBJECTID": 131, "ZIP": 94533, "CITY": "Fairfield", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "1975 Pennsylvania Avenue", "FullName": "David A. Weir Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.049457, 38.268945, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "027", "OBJECTID": 45, "ZIP": 95688, "CITY": "Vacaville", "DISTRICT": "Vacaville Unified", "ADDRESS": "101 Markham Ave.", "FullName": "Edwin Markham Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -121.978548, 38.372473, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "029", "OBJECTID": 28, "ZIP": 95687, "CITY": "Vacaville", "DISTRICT": "Vacaville Unified", "ADDRESS": "1355 Marshall Road", "FullName": "Fairmont Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -121.960501, 38.343858, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "030", "OBJECTID": 11, "ZIP": 94533, "CITY": "Fairfield", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "830 First St.", "FullName": "Fairview Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.048831, 38.253422, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "031", "OBJECTID": 49, "ZIP": 94590, "CITY": "Vallejo", "DISTRICT": "Vallejo City Unified", "ADDRESS": "415 Daniels St.", "FullName": "Federal Terrace Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.263688, 38.120967, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "032", "OBJECTID": 42, "ZIP": 95687, "CITY": "Vacaville", "DISTRICT": "Travis Unified", "ADDRESS": "600 Morning Glory Dr.", "FullName": "Foxboro Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -121.965780, 38.329245, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "032", "OBJECTID": 42, "ZIP": 95687, "CITY": "Vacaville", "DISTRICT": "Travis Unified", "ADDRESS": "600 Morning Glory Dr.", "FullName": "Foxboro Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -121.968869, 38.323714, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "032", "OBJECTID": 42, "ZIP": 95687, "CITY": "Vacaville", "DISTRICT": "Travis Unified", "ADDRESS": "600 Morning Glory Dr.", "FullName": "Foxboro Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -121.966941, 38.323516, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "033", "OBJECTID": 51, "ZIP": 94590, "CITY": "Vallejo", "DISTRICT": "Vallejo City Unified", "ADDRESS": "501 Starr Ave.", "FullName": "Franklin Middle School" }, "geometry": { "type": "Point", "coordinates": [ -122.235555, 38.097674, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "033", "OBJECTID": 51, "ZIP": 94590, "CITY": "Vallejo", "DISTRICT": "Vallejo City Unified", "ADDRESS": "501 Starr Ave.", "FullName": "Franklin Middle School" }, "geometry": { "type": "Point", "coordinates": [ -122.243250, 38.096549, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "035", "OBJECTID": 74, "ZIP": 94591, "CITY": "Vallejo", "DISTRICT": "Vallejo City Unified", "ADDRESS": "501 Glen Cove Parkway", "FullName": "Glen Cove Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.208842, 38.072473, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "036", "OBJECTID": 43, "ZIP": 94533, "CITY": "Fairfield", "DISTRICT": "Travis Unified", "ADDRESS": "2651 Deronde Dr.", "FullName": "Golden West Middle School" }, "geometry": { "type": "Point", "coordinates": [ -121.963756, 38.276055, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "038", "OBJECTID": 12, "ZIP": 94533, "CITY": "Fairfield", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "1975 Blossom Ave.", "FullName": "Grange Middle School" }, "geometry": { "type": "Point", "coordinates": [ -122.015626, 38.262137, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "039", "OBJECTID": 150, "ZIP": 94534, "CITY": "Fairfield", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "1350 Gold Hill Road", "FullName": "Green Valley Middle School" }, "geometry": { "type": "Point", "coordinates": [ -122.139283, 38.173276, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "039", "OBJECTID": 150, "ZIP": 94534, "CITY": "Fairfield", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "1350 Gold Hill Road", "FullName": "Green Valley Middle School" }, "geometry": { "type": "Point", "coordinates": [ -122.140008, 38.179508, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "039", "OBJECTID": 150, "ZIP": 94534, "CITY": "Fairfield", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "1350 Gold Hill Road", "FullName": "Green Valley Middle School" }, "geometry": { "type": "Point", "coordinates": [ -122.136079, 38.176740, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "040", "OBJECTID": 54, "ZIP": 95620, "CITY": "Dixon", "DISTRICT": "Dixon Unified", "ADDRESS": "1525 Pembroke Way", "FullName": "Gretchen Higgins Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -121.828600, 38.464211, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "040", "OBJECTID": 54, "ZIP": 95620, "CITY": "Dixon", "DISTRICT": "Dixon Unified", "ADDRESS": "1525 Pembroke Way", "FullName": "Gretchen Higgins Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -121.833299, 38.455928, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "041", "OBJECTID": 41, "ZIP": 95688, "CITY": "Vacaville", "DISTRICT": "Vacaville Unified", "ADDRESS": "400 Hemlock St.", "FullName": "Hemlock Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -121.999423, 38.365129, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "042", "OBJECTID": 59, "ZIP": 94590, "CITY": "Vallejo", "DISTRICT": "Vallejo City Unified", "ADDRESS": "1309 Ensign Ave.", "FullName": "Highland Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.233789, 38.118823, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "042", "OBJECTID": 59, "ZIP": 94590, "CITY": "Vallejo", "DISTRICT": "Vallejo City Unified", "ADDRESS": "1309 Ensign Ave.", "FullName": "Highland Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.231849, 38.111926, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "043", "OBJECTID": 66, "ZIP": 94591, "CITY": "Vallejo", "DISTRICT": "Vallejo City Unified", "ADDRESS": "850 Rosewood St.", "FullName": "Hogan Middle School" }, "geometry": { "type": "Point", "coordinates": [ -122.216978, 38.105249, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "043", "OBJECTID": 66, "ZIP": 94591, "CITY": "Vallejo", "DISTRICT": "Vallejo City Unified", "ADDRESS": "850 Rosewood St.", "FullName": "Hogan Middle School" }, "geometry": { "type": "Point", "coordinates": [ -122.211738, 38.102809, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "044", "OBJECTID": 30, "ZIP": 95688, "CITY": "Vacaville", "DISTRICT": "Vacaville Unified", "ADDRESS": "580 Elder St.", "FullName": "Willis Jepson Middle School" }, "geometry": { "type": "Point", "coordinates": [ -122.013197, 38.361927, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "044", "OBJECTID": 30, "ZIP": 95688, "CITY": "Vacaville", "DISTRICT": "Vacaville Unified", "ADDRESS": "580 Elder St.", "FullName": "Willis Jepson Middle School" }, "geometry": { "type": "Point", "coordinates": [ -122.007086, 38.368880, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "083", "OBJECTID": 65, "ZIP": 94591, "CITY": "Vallejo", "DISTRICT": "Vallejo City Unified", "ADDRESS": "1698 Oakwood Ave.", "FullName": "Joseph H. Wardlaw Elementary" }, "geometry": { "type": "Point", "coordinates": [ -122.205647, 38.118544, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "083", "OBJECTID": 65, "ZIP": 94591, "CITY": "Vallejo", "DISTRICT": "Vallejo City Unified", "ADDRESS": "1698 Oakwood Ave.", "FullName": "Joseph H. Wardlaw Elementary" }, "geometry": { "type": "Point", "coordinates": [ -122.203220, 38.117866, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "083", "OBJECTID": 65, "ZIP": 94591, "CITY": "Vallejo", "DISTRICT": "Vallejo City Unified", "ADDRESS": "1698 Oakwood Ave.", "FullName": "Joseph H. Wardlaw Elementary" }, "geometry": { "type": "Point", "coordinates": [ -122.212355, 38.117039, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "087", "OBJECTID": 67, "ZIP": 94510, "CITY": "Benicia", "DISTRICT": "Benicia Unified", "ADDRESS": "540 Rose Dr.", "FullName": "Matthew Turner Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.157477, 38.084561, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "087", "OBJECTID": 67, "ZIP": 94510, "CITY": "Benicia", "DISTRICT": "Benicia Unified", "ADDRESS": "540 Rose Dr.", "FullName": "Matthew Turner Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.158687, 38.086396, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "046", "OBJECTID": 72, "ZIP": 94510, "CITY": "Benicia", "DISTRICT": "Benicia Unified", "ADDRESS": "650 Hastings Dr.", "FullName": "Joe Henderson Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.167701, 38.084102, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "047", "OBJECTID": 15, "ZIP": 94533, "CITY": "Fairfield", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "2001 Winston Dr.", "FullName": "K. I. Jones Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.064806, 38.262325, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "049", "OBJECTID": 57, "ZIP": 94590, "CITY": "Vallejo", "DISTRICT": "Vallejo City Unified", "ADDRESS": "620 Carolina St.", "FullName": "Lincoln Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.251332, 38.107730, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "049", "OBJECTID": 57, "ZIP": 94590, "CITY": "Vallejo", "DISTRICT": "Vallejo City Unified", "ADDRESS": "620 Carolina St.", "FullName": "Lincoln Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.257640, 38.108689, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "049", "OBJECTID": 57, "ZIP": 94590, "CITY": "Vallejo", "DISTRICT": "Vallejo City Unified", "ADDRESS": "620 Carolina St.", "FullName": "Lincoln Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.245843, 38.103923, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "084", "OBJECTID": 117, "ZIP": 94589, "CITY": "Vallejo", "DISTRICT": "Vallejo City Unified", "ADDRESS": "100 Whitney Dr.", "FullName": "Elsa Widenmann Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.247338, 38.146590, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "084", "OBJECTID": 117, "ZIP": 94589, "CITY": "Vallejo", "DISTRICT": "Vallejo City Unified", "ADDRESS": "100 Whitney Dr.", "FullName": "Elsa Widenmann Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.236906, 38.146212, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "054", "OBJECTID": 14, "ZIP": 94534, "CITY": "Fairfield", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "570 Vintage Valley Dr", "FullName": "Nelda Mundy Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.144329, 38.217701, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "054", "OBJECTID": 14, "ZIP": 94534, "CITY": "Fairfield", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "570 Vintage Valley Dr", "FullName": "Nelda Mundy Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.139532, 38.222973, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "055", "OBJECTID": 104, "ZIP": 94534, "CITY": "Fairfield", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "700 Oakbrook Dr.", "FullName": "Oakbrook Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.142163, 38.193171, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "055", "OBJECTID": 104, "ZIP": 94534, "CITY": "Fairfield", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "700 Oakbrook Dr.", "FullName": "Oakbrook Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.146265, 38.196589, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "055", "OBJECTID": 104, "ZIP": 94534, "CITY": "Fairfield", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "700 Oakbrook Dr.", "FullName": "Oakbrook Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.141450, 38.186905, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "056", "OBJECTID": 23, "ZIP": 95688, "CITY": "Vacaville", "DISTRICT": "Vacaville Unified", "ADDRESS": "805 N. Orchard Ave.", "FullName": "Orchard Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.004088, 38.372807, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "057", "OBJECTID": 32, "ZIP": 95687, "CITY": "Vacaville", "DISTRICT": "Vacaville Unified", "ADDRESS": "200 Padan School Road", "FullName": "Eugene Padan Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -121.994338, 38.340933, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "058", "OBJECTID": 50, "ZIP": 94590, "CITY": "Vallejo", "DISTRICT": "Vallejo City Unified", "ADDRESS": "1080 Porter St.", "FullName": "Grace Patterson Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.236752, 38.079084, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Other Alternative School", "SchoolCode": "060", "OBJECTID": 1, "ZIP": 94589, "CITY": "Vallejo", "DISTRICT": "Vallejo City Unified", "ADDRESS": "233 Hobbs St.", "FullName": "Peoples High School" }, "geometry": { "type": "Point", "coordinates": [ -122.246521, 38.132493, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "064", "OBJECTID": 81, "ZIP": 94510, "CITY": "Benicia", "DISTRICT": "Benicia Unified", "ADDRESS": "2015 E. Third St.", "FullName": "Robert Semple Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.144716, 38.058310, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "064", "OBJECTID": 81, "ZIP": 94510, "CITY": "Benicia", "DISTRICT": "Benicia Unified", "ADDRESS": "2015 E. Third St.", "FullName": "Robert Semple Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.152517, 38.062885, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "068", "OBJECTID": 107, "ZIP": 94535, "CITY": "Travis AFB", "DISTRICT": "Travis Unified", "ADDRESS": "100 Broadway", "FullName": "Scandia Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -121.944559, 38.279142, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "069", "OBJECTID": 80, "ZIP": 94589, "CITY": "Vallejo", "DISTRICT": "Vallejo City Unified", "ADDRESS": "1025 Corcoran Ave.", "FullName": "Solano Middle School" }, "geometry": { "type": "Point", "coordinates": [ -122.230445, 38.151477, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "", "SchoolCode": "070", "OBJECTID": 0, "ZIP": 0, "CITY": "Benicia", "DISTRICT": "", "ADDRESS": "", "FullName": "St. Dominic's Catholic School" }, "geometry": { "type": "Point", "coordinates": [ -122.154561, 38.049278, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "", "SchoolCode": "070", "OBJECTID": 0, "ZIP": 0, "CITY": "Benicia", "DISTRICT": "", "ADDRESS": "", "FullName": "St. Dominic's Catholic School" }, "geometry": { "type": "Point", "coordinates": [ -122.152518, 38.044401, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "071", "OBJECTID": 71, "ZIP": 94592, "CITY": "Vallejo", "DISTRICT": "Vallejo City Unified", "ADDRESS": "815 Cedar Ave.", "FullName": "Steffan Manor Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.224276, 38.099508, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "075", "OBJECTID": 4, "ZIP": 94533, "CITY": "Fairfield", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "4500 Tolenas Road", "FullName": "Tolenas Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -121.997596, 38.266362, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "", "SchoolCode": "080", "OBJECTID": 0, "ZIP": 0, "CITY": "Vallejo", "DISTRICT": "Vallejo City Unified", "ADDRESS": "", "FullName": "Vallejo Charter School" }, "geometry": { "type": "Point", "coordinates": [ -122.226714, 38.081065, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "", "SchoolCode": "080", "OBJECTID": 0, "ZIP": 0, "CITY": "Vallejo", "DISTRICT": "Vallejo City Unified", "ADDRESS": "", "FullName": "Vallejo Charter School" }, "geometry": { "type": "Point", "coordinates": [ -122.224298, 38.080451, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "", "SchoolType": "", "SchoolCode": "", "OBJECTID": 0, "ZIP": 0, "CITY": "", "DISTRICT": "", "ADDRESS": "", "FullName": "Charles Sullivan Middle School" }, "geometry": { "type": "Point", "coordinates": [ -122.043119, 38.271363, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "078", "OBJECTID": 77, "ZIP": 95687, "CITY": "Vacaville", "DISTRICT": "Vacaville Unified", "ADDRESS": "200 Keith Way", "FullName": "Vaca Pena Middle School" }, "geometry": { "type": "Point", "coordinates": [ -121.951653, 38.350991, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "030", "OBJECTID": 11, "ZIP": 94533, "CITY": "Fairfield", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "830 First St.", "FullName": "Fairview Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.045537, 38.251701, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "008", "OBJECTID": 79, "ZIP": 95688, "CITY": "Vacaville", "DISTRICT": "Vacaville Unified", "ADDRESS": "333 Wrentham Dr.", "FullName": "Browns Valley Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -121.984749, 38.387464, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "077", "OBJECTID": 56, "ZIP": 95620, "CITY": "Dixon", "DISTRICT": "Dixon Unified", "ADDRESS": "355 Pheasant Run Dr.", "FullName": "Tremont Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -121.844230, 38.452252, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "015", "OBJECTID": 76, "ZIP": 95687, "CITY": "Vacaville", "DISTRICT": "Vacaville Unified", "ADDRESS": "750 Christine Dr.", "FullName": "Cooper Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -121.938243, 38.361330, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "015", "OBJECTID": 76, "ZIP": 95687, "CITY": "Vacaville", "DISTRICT": "Vacaville Unified", "ADDRESS": "750 Christine Dr.", "FullName": "Cooper Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -121.954924, 38.356480, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "027", "OBJECTID": 45, "ZIP": 95688, "CITY": "Vacaville", "DISTRICT": "Vacaville Unified", "ADDRESS": "101 Markham Ave.", "FullName": "Edwin Markham Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -121.982102, 38.365301, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "019", "OBJECTID": 151, "ZIP": 94585, "CITY": "Suisun City", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "400 Whispering Bay Ln.", "FullName": "Crescent Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.005750, 38.240298, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "019", "OBJECTID": 151, "ZIP": 94585, "CITY": "Suisun City", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "400 Whispering Bay Ln.", "FullName": "Crescent Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.021006, 38.244241, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "019", "OBJECTID": 151, "ZIP": 94585, "CITY": "Suisun City", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "400 Whispering Bay Ln.", "FullName": "Crescent Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.024038, 38.248609, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "047", "OBJECTID": 15, "ZIP": 94533, "CITY": "Fairfield", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "2001 Winston Dr.", "FullName": "K. I. Jones Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.053549, 38.272134, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "026", "OBJECTID": 19, "ZIP": 94533, "CITY": "Fairfield", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "1901 Woolner Ave.", "FullName": "E. Ruth Sheldon Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.058532, 38.245514, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "057", "OBJECTID": 32, "ZIP": 95687, "CITY": "Vacaville", "DISTRICT": "Vacaville Unified", "ADDRESS": "200 Padan School Road", "FullName": "Eugene Padan Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -121.977321, 38.338791, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "037", "OBJECTID": 8, "ZIP": 94533, "CITY": "Fairfield", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "1950 Dover Ave.", "FullName": "Cleo Gordon Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.027528, 38.266180, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "048", "OBJECTID": 31, "ZIP": 94533, "CITY": "Fairfield", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "2900 Gulf Dr.", "FullName": "Laurel Creek Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.013912, 38.280548, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "057", "OBJECTID": 32, "ZIP": 95687, "CITY": "Vacaville", "DISTRICT": "Vacaville Unified", "ADDRESS": "200 Padan School Road", "FullName": "Eugene Padan Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -121.993796, 38.342938, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "057", "OBJECTID": 32, "ZIP": 95687, "CITY": "Vacaville", "DISTRICT": "Vacaville Unified", "ADDRESS": "200 Padan School Road", "FullName": "Eugene Padan Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -121.976481, 38.334977, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "059", "OBJECTID": 69, "ZIP": 94591, "CITY": "Vallejo", "DISTRICT": "Vallejo City Unified", "ADDRESS": "3620 Fernwood Ave.", "FullName": "Annie Pennycook Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.211559, 38.097083, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "066", "OBJECTID": 130, "ZIP": 94534, "CITY": "Fairfield", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "2025 Fieldcrest Avenue", "FullName": "Rolling Hills Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.043908, 38.290343, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "066", "OBJECTID": 130, "ZIP": 94534, "CITY": "Fairfield", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "2025 Fieldcrest Avenue", "FullName": "Rolling Hills Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.041164, 38.289488, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "066", "OBJECTID": 130, "ZIP": 94534, "CITY": "Fairfield", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "2025 Fieldcrest Avenue", "FullName": "Rolling Hills Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.035905, 38.294551, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "078", "OBJECTID": 77, "ZIP": 95687, "CITY": "Vacaville", "DISTRICT": "Vacaville Unified", "ADDRESS": "200 Keith Way", "FullName": "Vaca Pena Middle School" }, "geometry": { "type": "Point", "coordinates": [ -121.950864, 38.345597, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "036", "OBJECTID": 43, "ZIP": 94533, "CITY": "Fairfield", "DISTRICT": "Travis Unified", "ADDRESS": "2651 Deronde Dr.", "FullName": "Golden West Middle School" }, "geometry": { "type": "Point", "coordinates": [ -121.964894, 38.279538, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "078", "OBJECTID": 77, "ZIP": 95687, "CITY": "Vacaville", "DISTRICT": "Vacaville Unified", "ADDRESS": "200 Keith Way", "FullName": "Vaca Pena Middle School" }, "geometry": { "type": "Point", "coordinates": [ -121.954924, 38.356480, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "020", "OBJECTID": 20, "ZIP": 94585, "CITY": "Suisun City", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "400 Whispering Bay Ln.", "FullName": "Crystal Middle School" }, "geometry": { "type": "Point", "coordinates": [ -122.021006, 38.244241, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "020", "OBJECTID": 20, "ZIP": 94585, "CITY": "Suisun City", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "400 Whispering Bay Ln.", "FullName": "Crystal Middle School" }, "geometry": { "type": "Point", "coordinates": [ -122.024038, 38.248609, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "072", "OBJECTID": 16, "ZIP": 94585, "CITY": "Suisun City", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "725 Golden Eye Way", "FullName": "Suisun Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.024038, 38.248609, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "050", "OBJECTID": 116, "ZIP": 94589, "CITY": "Vallejo", "DISTRICT": "Vallejo City Unified", "ADDRESS": "146 Rainier St.", "FullName": "Loma Vista Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.247338, 38.146590, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "050", "OBJECTID": 116, "ZIP": 94589, "CITY": "Vallejo", "DISTRICT": "Vallejo City Unified", "ADDRESS": "146 Rainier St.", "FullName": "Loma Vista Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.236906, 38.146212, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "069", "OBJECTID": 80, "ZIP": 94589, "CITY": "Vallejo", "DISTRICT": "Vallejo City Unified", "ADDRESS": "1025 Corcoran Ave.", "FullName": "Solano Middle School" }, "geometry": { "type": "Point", "coordinates": [ -122.236906, 38.146212, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "059", "OBJECTID": 69, "ZIP": 94591, "CITY": "Vallejo", "DISTRICT": "Vallejo City Unified", "ADDRESS": "3620 Fernwood Ave.", "FullName": "Annie Pennycook Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.211738, 38.102809, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "087", "OBJECTID": 67, "ZIP": 94510, "CITY": "Benicia", "DISTRICT": "Benicia Unified", "ADDRESS": "540 Rose Dr.", "FullName": "Matthew Turner Elementary School" }, "geometry": { "type": "Point", "coordinates": [ -122.167701, 38.084102, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "005", "OBJECTID": 17, "ZIP": 94534, "CITY": "Fairfield", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "3301 Cherry Hills Court", "FullName": "B. Gale Wilson K-8 School" }, "geometry": { "type": "Point", "coordinates": [ -122.069787, 38.270572, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Map": "Yes", "SchoolType": "Regular School", "SchoolCode": "005", "OBJECTID": 17, "ZIP": 94534, "CITY": "Fairfield", "DISTRICT": "Fairfield-Suisun Unified", "ADDRESS": "3301 Cherry Hills Court", "FullName": "B. Gale Wilson K-8 School" }, "geometry": { "type": "Point", "coordinates": [ -122.075247, 38.267579, 0.000000 ] } }
+
+]
+}

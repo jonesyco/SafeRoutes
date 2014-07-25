@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <title>Data Download</title>
+    </head>
+    <body> 
+        <p>This page provides an ArcMap compatible KML download:</p>
+        <p>Download Routes (reference SchoolCode)
+            <a href="converter.php">GeoJson</a>&nbsp;
+            <a href="converter.php?format=kml">Kml</a>&nbsp;
+            <a href="converter.php?format=shapefile">Zipped Shapefile *</a>&nbsp;
+        </p>
+        <p>Download Comments (reference SchoolCode)
+            <a href="converter.php?type=comments">GeoJson</a>
+            <a href="converter.php?format=kml&type=comments">Kml **</a>&nbsp;
+            <a href="converter.php?format=shapefile&type=comments">Zipped Shapefile*</a>&nbsp;
+        </p>
+        <p>Download older Routes (reference OBJECTID)
+            <a href="converter.php?version=old">GeoJson</a>
+            <a href="converter.php?format=kml&version=old">Kml</a>&nbsp;
+            <a href="converter.php?format=shapefile&version=old">Zipped Shapefile *</a>&nbsp;
+        </p>
+        <p>Download older Comments (reference OBJECTID)
+            <a href="converter.php?version=old&type=comments">GeoJson</a>
+            <a href="converter.php?format=kml&type=comments&version=old">Kml **</a>&nbsp;
+            <a href="converter.php?format=shapefile&type=comments&version=old">Zipped Shapefile*</a>&nbsp;
+        </p>
+        <p></p>
+        <p>* Shapefile converter uses third party web service (http://ogre.adc4gis.com). Maximum size is 15Mb. Rename the four files after unzipping!</p>
+        <p>** Format not verified.</p>
+    </body>
+</html> 

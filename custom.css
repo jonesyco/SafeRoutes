@@ -1,0 +1,165 @@
+/* remove padding and scrolling from elements that contain an Accordion OR a content-div */
+.ui-layout-center ,	/* has content-div */
+.ui-layout-east ,	/* has content-div ... */
+.ui-layout-east .ui-layout-content { /* content-div has Accordion */
+        padding: 0;
+        overflow: hidden;
+        
+}
+
+.ui-layput-west, .ui-layout north {
+    font-size: small;
+}
+
+.ui-layout-west {	/* has Accordion */
+        padding: 0;
+        /*overflow-y: auto;
+        overflow-x: hidden;*/
+        overflow: hidden;
+}
+
+.ui-layout-center P.ui-layout-content {
+        line-height:	1.4em;
+        margin:			0; /* remove top/bottom margins from <P> used as content-div */
+}
+h3, h4 { /* Headers & Footer in Center & East panes */
+        font-size:		1.1em;
+        background:		#EEF;
+        border:			1px solid #BBB;
+        border-width:	        0 0 1px;
+        padding:		7px 3px;
+        margin:			0;
+}
+
+.ui-layout-east h4 { /* Footer in East-pane */
+        font-size:	0.9em;
+        font-weight:	normal;
+        border-width:	1px 0 0;
+}
+
+.map-form td {
+  margin: 0;
+  text-align: left;
+  font: small Arial, sans-serif;
+}
+.map-form-2 td {
+  margin: 0;
+  text-align: left;
+  font: small Arial, sans-serif;
+  float: left;
+}
+#header_line h2 {
+    color: #e08726;
+    font-size: 120%;
+    font-family: sans-serif;
+}
+
+#marker_menu:hover{
+    background:#ffffb6;
+    padding-top: 0 !important;
+}
+
+.marker_in {
+        font-size: smaller;
+        padding-top: 3px;
+        padding-bottom: 12px;        
+}
+
+#controlUI {
+        background-color: white;
+        border-bottom-style: solid;
+        border-width: 1px;
+        cursor: auto;
+        text-align: justify;
+}
+
+/* resize for map inclusion */
+
+.acc_cont {
+    font-family: Arial,sans-serif;
+    font-size: 0.7em;
+    margin-top: -0.5em !important;
+}
+
+.acc_cont p, input {
+    margin-top: -0.5em;
+    margin-bottom: 1em;
+}
+
+.ui-state-default {
+        font-weight: bold;
+        color: #E08726;
+}
+
+.ai {
+    font-size: smaller;
+    font-family: sans-serif;
+}
+
+#north {
+        padding-left: 2.2em;
+        padding-bottom: 0.5em !important;
+        padding-top: 0.5em !important;
+}
+
+.ui-accordion-content {
+    margin-top: 0 !important;
+    /* padding: 0 !important; /* important makes this the dominant value for this property!!!! */
+}
+
+.ui-widget-content {
+    margin-top: 0 !important;
+    /* padding: 0 !important; /* important makes this the dominant value for this property!!!! */
+}
+
+ui-accordion-content-active {
+    margin-top: 0 !important;
+    /* padding: 0 !important; /* important makes this the dominant value for this property!!!! */
+}
+
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active { color: #E08726 !important; }
+.ui-state-active a, .ui-state-active a:link, .ui-state-active a:visited { color: #E08726 !important; }
+
+#map-form-2 #map-form input {
+    padding: 0;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#map-form-2 #map-form table tr td {
+    padding: 0;
+    border: 0;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#map-form-2 #map-form label {
+    padding: 0;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.header-line {
+    padding-top: .6em;
+    padding-bottom: .6em;
+}
+
+.hl {
+    font-family: sans-serif;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #E08726;
+}
+
+.di {
+    font-family: sans-serif;
+    font-size: 0.8em;
+}
+
+s2s-missing {
+    background-color: #444444;
+}
+
+#select_school {
+    width: 100%;
+}

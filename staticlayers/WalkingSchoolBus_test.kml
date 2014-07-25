@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>WalkingSchoolBus</name>
+  <description><![CDATA[Edit Routes for Walking School Bus information here. Put associated SchoolCode into title field. ]]></description>
+  <Style id="style1">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Placemark>
+    <name>001</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -122.002602,38.353790,0.000000
+        -122.001846,38.354225,0.000000
+        -121.999168,38.351551,0.000000
+        -121.997833,38.352493,0.000000
+        -121.998497,38.353184,0.000000
+        -121.996010,38.353401,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>001</name>
+    <description><![CDATA[<div dir="ltr">Alamo Elementary School<br><br>Monday-Friday<br>8:00pm</div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-121.996010,38.353386,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>001</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style3</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -122.000900,38.353268,0.000000
+        -121.999489,38.354160,0.000000
+        -122.000542,38.355186,0.000000
+        -122.000000,38.355404,0.000000
+        -121.997810,38.355339,0.000000
+        -121.997726,38.356819,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>001</name>
+    <description><![CDATA[<div dir="ltr">Alamo Elementary School<br><br>Monday - Friday<br>9:00am</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-121.997726,38.356819,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>065</name>
+    <description><![CDATA[<div dir="ltr">Angelo Rodriguez High School<br><br>Monday - Thursday<br>8am</div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -122.148666,38.198799,0.000000
+        -122.148666,38.198124,0.000000
+        -122.146950,38.197887,0.000000
+        -122.148018,38.197147,0.000000
+        -122.148834,38.197857,0.000000
+        -122.150078,38.197922,0.000000
+        -122.150726,38.196640,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>065</name>
+    <description><![CDATA[<div dir="ltr">Angelo Rodriguez HighSchool<br>Monday-Friday<br><br>6pm</div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>-122.150757,38.196571,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>065</name>
+    <description><![CDATA[<div dir="ltr">test<br><br>9:00 am</div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>-122.146255,38.193993,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>065</name>
+    <description><![CDATA[<div dir="ltr">test<br><br>route info</div>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -122.146339,38.194584,0.000000
+        -122.146904,38.196167,0.000000
+        -122.147141,38.196655,0.000000
+        -122.146126,38.198124,0.000000
+        -122.146774,38.198479,0.000000
+        -122.147865,38.198631,0.000000
+        -122.148849,38.198696,0.000000
+        -122.148682,38.199692,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+</Document>
+</kml>
